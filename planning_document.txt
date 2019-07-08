@@ -1,0 +1,23 @@
+Planning/Design 
+Est - 2h
+time taken - 2h
+
+Project Setup 
+est- 1h
+time taken - 30min
+
+Feature 1 - Read File and parse data 
+est - 2h
+time taken - 2h
+
+Feature 2 - Main business logic - 4 h
+time taken - 5h
+
+this task too a bit more than expected as i had to make a few assumptions and also to format the output
+
+Testing - 1 h
+time taken 30 min
+
+Estimated time : 10 h
+
+Total time taken : 10h
