@@ -5,3 +5,5 @@ the contents of this file correspond to the example input mentioned in the Techn
 to test various scenarios please change the content in this file
 
 test_cases.docx has the screenshots of testing I performed on the code, which indicate that my solution is working correclty
+
+planning_documt.txt has the estimations, time taken by me and break down of the tasks which was requested as part of the exercise.
