@@ -1,6 +1,6 @@
 # ghdExercise
 
-src/main/java/resource/test_1 is the input file
+src/main/java/resource/test_1 is the input file,
 the contents of this file correspond to the example input mentioned in the Technical Challenge.docx file
 to test different scenarios please change the content in this file
 
